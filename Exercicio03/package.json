@@ -1,0 +1,23 @@
+{
+    "name": "padaria-ponpon",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "node sistema2.js",
+        "info": "node sistema.js",
+        "calc": "node calculadora.js"
+    },
+    "keywords": [
+        "padaria",
+        "nodejs",
+        "backend",
+        "sistema",
+        "gerenciamento"
+    ],
+    "author": "Kamilly Ribeiro",
+    "license": "MIT",
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}
